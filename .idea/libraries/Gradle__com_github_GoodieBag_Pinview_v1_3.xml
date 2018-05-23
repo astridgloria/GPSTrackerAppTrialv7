@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.GoodieBag:Pinview-v1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e60f107aa579ded7720c3d8df0becfdb937be3cf/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e60f107aa579ded7720c3d8df0becfdb937be3cf/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,7 @@
+#Wed May 23 03:15:09 WIB 2018
+base.0=/Users/astridgloria/Downloads/GPSTrackerAppTrialv7/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/astridgloria/Downloads/GPSTrackerAppTrialv7/app/build/intermediates/transforms/dexMerger/debug/1
